@@ -1,6 +1,6 @@
 <h3>Tech Stack</h3>
 
-nbsp; JavaScript | TypeScript | ReactJS
+JavaScript | TypeScript | ReactJS
 
 
 <h3>💻 Looking for Opportunities</h3>
