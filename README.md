@@ -3,6 +3,4 @@
  HTML | CSS (SASS) | JavaScript (ES6+) | TypeScript | ReactJS
 
 
-  <h3>Looking for Opportunities</h3>
 
-  Currently looking for Remote Frontend or React developer position 
