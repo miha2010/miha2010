@@ -1,4 +1,4 @@
-  ![](https://media.giphy.com/media/LrRZtTPLNyGk9BoT7b/giphy.gif)
+  ![](https://media.giphy.com/media/LrRZtTPLNyGk9BoT7b/source.mov)
   
   <h3>Tech Stack</h3>
 
