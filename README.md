@@ -1,4 +1,5 @@
-  ![](/assets/Animated GIF-source.gif)
+  ![](https://i.imgur.com/VoTLppGh.gif)
+  
   
   <h3>Tech Stack</h3>
 
